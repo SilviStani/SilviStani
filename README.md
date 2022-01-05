@@ -16,9 +16,15 @@
 Projects I was doing on Henry and by myself:
 
 LinkedIn: https://www.linkedin.com/posts/silvina-staniszewski-18493276_html5-javascript-css-activity-6881628947373670401-Jo5e
-GitHub: https://github.com/SilviStani/Vacation-TodoList
+
+GitHub Repository: https://github.com/SilviStani/Vacation-TodoList
+
 ![image](https://user-images.githubusercontent.com/90510746/148145113-25ef5a46-17d7-4c5f-b9e0-07716ffc0b02.png)
+
 https://www.linkedin.com/posts/silvina-staniszewski-18493276_learning-css-react-activity-6869628166080647169-WT-w
+
+
+
 ![image](https://user-images.githubusercontent.com/90510746/148205845-1f650bfd-15ad-433c-839d-962786b50e83.png)
 
 
