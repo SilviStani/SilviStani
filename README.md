@@ -12,6 +12,7 @@
 - Phone +54-9-011-15-63632288
 - LinkedIn https://www.linkedin.com/in/silvina-staniszewski-18493276/
 - Twitter: @SilviStani
+- Portfolio (hecho pure react): https://react-portfolio-omega-sooty.vercel.app/
 
 Projects I was doing on Henry and by myself:
 
