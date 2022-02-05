@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SilviStani
 - Full name: Silvina Staniszewski. 
 - I'm 42 years old.
-- Live in Villa General Belgrano, Córdoba, Argentina.
+- From Córdoba, Argentina.
 - 👀 I’m interested in software development. 
 - Love sing, roller skating, dance, learn.
 - 🌱 I’m currently learning Javascript on Henry Academy. Hope to finish my degree on March 2022.
