@@ -40,7 +40,6 @@ const aboutMe = {
   
   <p> <img align="center" src="https://cdn-icons-png.flaticon.com/512/2513/2513187.png" alt="skating rollers" height="50" width="50" />
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3656/3656968.png" alt="skating rollers" height="50" width="50" /> 
-  <img align="center" src="https://cdn-icons.flaticon.com/png/512/4444/premium/4444201.png?token=exp=1645571988~hmac=17aaa46bb90cc109514af1e6f93e83e1" alt="skating rollers" height="50" width="50" />
 </p>
 
 ## Projects:
