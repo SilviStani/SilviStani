@@ -49,7 +49,7 @@ const aboutMe = {
 
 <p>Collar Qr</p>
 
-![image](https://user-images.githubusercontent.com/90510746/160607183-5527d9ec-bacf-458f-a48c-d89459f00a81.png)
+<img src="https://user-images.githubusercontent.com/90510746/160607183-5527d9ec-bacf-458f-a48c-d89459f00a81.png" alt=""  height="200px"/>
 
 <p>Home</p>
 
