@@ -75,5 +75,5 @@ const aboutMe = {
 <p>Portfolio code: https://github.com/SilviStani/React-Portfolio </p>
 <p>Deployed: https://react-portfolio-omega-sooty.vercel.app/ </p>
 
-<img src="![image](https://user-images.githubusercontent.com/90510746/160608473-9ff53bc5-06f8-4055-ad7e-c69702798dbc.png)" alt=""  height="350px"/>
+<img src="https://user-images.githubusercontent.com/90510746/160608473-9ff53bc5-06f8-4055-ad7e-c69702798dbc.png" alt=""  height="350px"/>
 
