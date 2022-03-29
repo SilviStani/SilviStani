@@ -49,26 +49,25 @@ const aboutMe = {
 
 <p>Collar Qr</p>
 
-<img src="https://user-images.githubusercontent.com/90510746/160607183-5527d9ec-bacf-458f-a48c-d89459f00a81.png" alt=""  height="200px"/>
+<img src="https://user-images.githubusercontent.com/90510746/160607183-5527d9ec-bacf-458f-a48c-d89459f00a81.png" alt=""  height="350px"/>
 
 <p>Home</p>
 
-![image](https://user-images.githubusercontent.com/90510746/160607316-4b5918a5-548b-4945-9c5f-d9265fdea473.png)
-
+<img src="https://user-images.githubusercontent.com/90510746/160607316-4b5918a5-548b-4945-9c5f-d9265fdea473.png" alt=""  height="350px"/>
 
 <p>Food App code: https://github.com/SilviStani/Pi-Food</p>
 
 <p>Landing Page</p>
 
-![recipes](https://user-images.githubusercontent.com/90510746/155239884-3b3f680e-ddf9-4260-bb24-8575a32c3b49.jpg)
+<img src="https://user-images.githubusercontent.com/90510746/155239884-3b3f680e-ddf9-4260-bb24-8575a32c3b49.jpg" alt=""  height="350px"/>
 
 <p>Home</p>
 
-![Home Food App](https://user-images.githubusercontent.com/90510746/155239699-a0ab095e-cfb3-4a32-8756-e1f3b9e4d948.jpg)
+<img src="https://user-images.githubusercontent.com/90510746/155239699-a0ab095e-cfb3-4a32-8756-e1f3b9e4d948.jpg" alt=""  height="350px"/>
 
 <p>Create Recipe</p>
 
-![create recipe](https://user-images.githubusercontent.com/90510746/155239734-b16369fd-4459-443b-8634-344613c791d0.jpg)
+<img src="https://user-images.githubusercontent.com/90510746/155239734-b16369fd-4459-443b-8634-344613c791d0.jpg" alt=""  height="350px"/>
 
 
 ## Other Projects:
@@ -76,6 +75,5 @@ const aboutMe = {
 <p>Portfolio code: https://github.com/SilviStani/React-Portfolio </p>
 <p>Deployed: https://react-portfolio-omega-sooty.vercel.app/ </p>
 
-
-![Portfolio](https://user-images.githubusercontent.com/90510746/155241489-2df2e29a-f32d-4046-8551-df69e2a9cb32.jpg)
+<img src="https://user-images.githubusercontent.com/90510746/155241489-2df2e29a-f32d-4046-8551-df69e2a9cb32.jpg" alt=""  height="350px"/>
 
