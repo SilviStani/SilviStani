@@ -44,6 +44,18 @@ const aboutMe = {
 
 ## Projects:
 
+<p>VIPets (SPA --> dedicated to our best friends: Pets)</p>
+<p>VIPets </code> https://github.com/SilviStani/PF-PuppyPalace</p>
+
+<p>Collar Qr</p>
+
+![image](https://user-images.githubusercontent.com/90510746/160607183-5527d9ec-bacf-458f-a48c-d89459f00a81.png)
+
+<p>Home</p>
+
+![image](https://user-images.githubusercontent.com/90510746/160607316-4b5918a5-548b-4945-9c5f-d9265fdea473.png)
+
+
 <p>Food App code: https://github.com/SilviStani/Pi-Food</p>
 
 <p>Landing Page</p>
