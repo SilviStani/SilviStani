@@ -75,5 +75,4 @@ const aboutMe = {
 <p>Portfolio code: https://github.com/SilviStani/React-Portfolio </p>
 <p>Deployed: https://react-portfolio-omega-sooty.vercel.app/ </p>
 
-<img src="https://user-images.githubusercontent.com/90510746/206808365-7e6c3931-c4d3-436d-9c59-833273a5dc13.png" alt="Imagen de portada, portfolio Silvina Staniszewski"  height="350px"/>
-
+<img src="https://user-images.githubusercontent.com/90510746/206809662-801fbf30-7ab4-48f7-bb2d-e39e84cdb0e7.png" alt="Imagen de portada, portfolio Silvina Staniszewski"  height="350px"/>
