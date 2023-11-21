@@ -1,22 +1,37 @@
 ![Silvina presentacion github](https://user-images.githubusercontent.com/90510746/155199036-e3f8171c-ad03-4ca0-979f-50b0f38353ad.gif)
-  <br></br>
+  <p></p>
   ## About Me:
 ```javascript
 const aboutMe = {
    pronouns: "She" | "Her",
-   code: [Javascript, Typescript (learning), HTML, CSS, C#(learning)],
+   code: [Javascript, HTML, CSS, C#],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Material UI"]
+         js: ["React", "Redux", "Next.JS"],
+         css: ["Material UI", "Sass", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express", "C#"]
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["Teacher Assistant at Henry Bootcamp"],
+   Occupation: [
+   {
+   id: 1,
+   position: "Teacher Assistant",
+   company: "Henry Bootcamp",
+   from: "January 2022",
+   to: "March 2022"
+   }, {
+   id: 2,
+   position: "Automation Testing",
+   company: "Accenture Argentina",
+   from: "July 2022",
+   to: "currently working here"
+   }
+   ],
 };
+
 ```
 ## Languages && Tools:
 <p align="left">
